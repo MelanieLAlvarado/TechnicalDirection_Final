@@ -7,7 +7,7 @@ This Maya tool was developed to aid in the process of creating controllers for a
 
 <img src=assets/installDirectory.png>
 
-* Drag the install.mel to maya's viewport
+* Drag the install.mel to maya's viewport.
 
 ## Instructions
 ### **To Begin using the tool:**
@@ -23,7 +23,7 @@ This Maya tool was developed to aid in the process of creating controllers for a
 * Type a keyword shared by all joints in the chain *(The first joint does not require a keyword)*.
 
 * Click the **"Auto Find Joints"** button underneath the keyword to gather the joints.
->Note: there must be at more than 3 joints for the selection to be valid
+>***Note:*** there must be at more than 3 joints for the selection to be valid.
 
 <img src=assets/gatherJoints.png>
 
@@ -38,28 +38,28 @@ This Maya tool was developed to aid in the process of creating controllers for a
 <img src=assets/confirmCtrlJoint.png>
 
 * **optional:**
-Type a override name for which you wish the control to be named
-> Note: The override name does not include the prefix.
+Type a override name for which you wish the control to be named.
+>***Note:*** The override name does not include the prefix.
 
 <img src=assets/overrideCtrlName.png>
 
 ### **Additional Control Options:**
-* To toggle the root control being rigged, click the "Create Root Control" checkbox.
+* To toggle the root control being rigged, click the **"Create Root Control"** checkbox.
 
 <img src=assets/toggleRootCtrl.png>
 <img src=assets/toggleRootDifference.png>
 
-*Above: With Rig Control enabled on Left; Without Rig Control enabled on Right*
+*Above: With Rig Control enabled on Left; Without Rig Control enabled on Right.*
 
-* To toggle the volume maintain attribute being added, click the "Create Volume Attribute" checkbox.
->Note: this attribute will be housed on the "base" control.
+* To toggle the volume maintain attribute being added, click the **"Create Volume Attribute"** checkbox.
+>***Note:*** this attribute will be housed on the "base" control.
 
 <img src=assets/toggleVolumeCtrl.png>
 <img src=assets/volumeMaintainDifference.png>
 
-*Above: Volume Maintain off on Left; Volume Maintain enabled on Right*
->Note: Volume Maintain can still be turned off when the attribute is made. View the base controls attributes to edit.
-* Change the prefix name of all controls.
+*Above: Volume Maintain off on Left; Volume Maintain enabled on Right.*
+>***Note:*** Volume Maintain can still be turned off when the attribute is made. View the base controls attributes to edit.
+* Change the prefix name of all controls by typing in the the desired name.
 <img src=assets/prefixName.png>
 
 * Change the controls sizes by typing the desired control size.
@@ -76,10 +76,10 @@ Type a override name for which you wish the control to be named
 <img src=assets/colorSelected.png>
 
 ### **Creating the chain controllers:**
-* Once the settings are set, select the "Rig Multi-Chain" button to create the controls.
+* Once the settings are set, select the **"Rig Multi-Chain"** button to create the controls.
 <img src=assets/createCtrlsButton.png>
 
-### **Auto rig output:**
+## **Auto rig output**
 
 <img src=assets/chainOutput.png>
 
