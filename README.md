@@ -59,7 +59,7 @@ Type a override name for which you wish the control to be named.
 
 *Above: Volume Maintain off on Left; Volume Maintain enabled on Right.*
 >***Note:*** Volume Maintain can still be turned off when the attribute is made. View the base controls attributes to edit.
-* Change the prefix name of all controls by typing in the the desired name.
+* Change the prefix name of all controls by typing in the desired name.
 <img src=assets/prefixName.png>
 
 * Change the controls sizes by typing the desired control size.
