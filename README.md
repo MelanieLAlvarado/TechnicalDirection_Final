@@ -51,9 +51,8 @@ Type a override name for which you wish the control to be named
 
 *Above: With Rig Control enabled on Left; Without Rig Control enabled on Right*
 
-
 * To toggle the volume maintain attribute being added, click the "Create Volume Attribute" checkbox.
->Note: this attriubute will be housed on the "base" control.
+>Note: this attribute will be housed on the "base" control.
 
 <img src=assets/toggleVolumeCtrl.png>
 <img src=assets/volumeMaintainDifference.png>
@@ -77,7 +76,7 @@ Type a override name for which you wish the control to be named
 <img src=assets/colorSelected.png>
 
 ### **Creating the chain controllers:**
-* Once the settings are set, select the "" button to create the controls.
+* Once the settings are set, select the "Rig Multi-Chain" button to create the controls.
 <img src=assets/createCtrlsButton.png>
 
 ### **Auto rig output:**
